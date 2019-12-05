@@ -4,6 +4,10 @@ public class HelloWorld{
 			mobil bmw = new mobil();//bangun objek bmw
 			bmw.merk = "BMW 320i";
 			bmw.maju();
+			
+			mobil fordShelby = new mobil();
+			fordShelby.merk = "Ford Mustang Shelby";
+			fordShelby.maju();
         }
 }
 
