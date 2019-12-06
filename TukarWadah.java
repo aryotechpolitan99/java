@@ -8,11 +8,13 @@ public class TukarWadah{
 		a = a+b;
 		b = a-b;
 		a = a-b;
+		
+		
 		System.out.println("A adalah "+x);
 		System.out.println("B adalah "+y);
-		
+		System.out.println();
 		System.out.println("Berubah menjadi");
-		
+		System.out.println();
 		System.out.println("A adalah "+a);
 		System.out.println("B adalah "+b);
 	}
